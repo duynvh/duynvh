@@ -1,6 +1,6 @@
 <!-- duynvh -->
-<h1>Hi there<h1>
-<div>I'm Duy Phan. I'm a developer familiar with PHP, Golang and Javascript</div>
+<h1>Hi there</h1>
+<h4>I'm Duy Nguyen. I'm a developer familiar with PHP, Golang and Javascript</h4>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
