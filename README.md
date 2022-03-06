@@ -1,6 +1,6 @@
 <!-- duynvh -->
 <h1>Hi there<h1>
-<h3>I am a fullstack developer</h3>
+<div>I'm Duy Phan. I'm a developer familiar with PHP, Golang and Javascript</div>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
