@@ -46,27 +46,6 @@
 
 <br>
 
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
-  <a href="https://www.facebook.com/vohoangduy.nguyen/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="duynvh-facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/duy-nguyen-vo-hoang-44bb72161/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="duynvh-linkedin" />
-  </a>
-
-  <a href="https://www.instagram.com/duy.nvh/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="duynvh-instagram" />
-  </a>
-  <a href="mailto:nguyenvohoangduy@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="duynvh-email" />
-  </a>
-</div>
-
-<br>
-
 <h2 align="center">📑 Random Quotes 📑</h2>
 <br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
