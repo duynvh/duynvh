@@ -1,5 +1,6 @@
 <!-- duynvh -->
-
+<h1>Hi there<h1>
+<h3>I am a fullstack developer</h3>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
