@@ -44,14 +44,3 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=duynvh&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
-
-<br>
-
-<h2 align="center">📑 Random Quotes 📑</h2>
-<br>
-<!-- https://github.com/shravan20/github-readme-quotes -->
-<div align="right">
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
-
-</div>
